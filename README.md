@@ -13,7 +13,7 @@ Regras:
 </section>
 
 <footer>
-   <a href="" target="_blank">Jogue Agora!</a>
+   <a href="https://game-detona-ralph-omega.vercel.app/" target="_blank">Jogue Agora!</a>
 </footer>
 
 <div align="center">
