@@ -16,7 +16,9 @@ Regras:
    <a href="https://game-detona-ralph-omega.vercel.app/" target="_blank">Jogue Agora!</a>
 </footer>
 
+<p>
 <div align="center">
-<img src="" alt="Imagem ilustrativa do jogo na versão web"> 
+<img src="https://github.com/Alxcostta/Game-Detona-Ralph/blob/main/src/images/versao-final.png" alt="Imagem ilustrativa do jogo na versão web"> 
 </div>
+</p>
  
