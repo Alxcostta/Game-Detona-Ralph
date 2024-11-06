@@ -1,10 +1,12 @@
 <head>
-  <p> GAME DETONA RALPH</p>
+  <div align="center">
+  <h1> GAME DETONA RALPH</h1>
 </head>
 <section>
+  <div align="justify">
   <p> Objetivo: Obter a maior pontuação possível apertando em cima do Ralph quando ele aparecer na janela antes do tempo acabar.
 
-Regras
+<h3>Regras</h2>
 
 <p>Aparições aleatórias: Ralph aparecerá em diferentes janelas na tela de forma aleatória.<p>
 <p>Tempo limitado: O jogador terá 60 segundos para acumular o maior número de pontos.<p>
@@ -13,6 +15,7 @@ Regras
 </section>
 
 <footer>
+  <div align="center">
    <a href="https://game-detona-ralph-omega.vercel.app/" target="_blank">Jogue Agora!</a>
 </footer>
 
